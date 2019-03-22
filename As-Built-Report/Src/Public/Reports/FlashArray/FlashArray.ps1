@@ -24,7 +24,7 @@
 
 # If custom style not set, use Pure Storage style
 if (!$StyleName) {
-    .\Styles\PureStorage.ps1
+    .\Styles\C1.PureStorage.ps1
 }
 
 # Connect to Pure Storage FlashArrays using supplied credentials

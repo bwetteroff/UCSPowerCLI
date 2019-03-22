@@ -27,7 +27,7 @@ $VIServer = @()
 
 # If custom style not set, use VMware style
 if (!$StyleName) {
-    & "$PSScriptRoot\..\..\Styles\VMware.ps1"
+    & "$PSScriptRoot\..\..\Styles\C1.VMware.ps1"
 }
 
 #endregion Configuration Settings

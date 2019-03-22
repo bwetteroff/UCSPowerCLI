@@ -20,7 +20,7 @@ Style -Name 'Warning' -Size 10 -BackgroundColor 'FFE860'
 Style -Name 'Info' -Size 10 -BackgroundColor 'A6D8E7'
 Style -Name 'OK' -Size 10 -BackgroundColor 'AADB1E'
 
-TableStyle -Id 'TableDefault' -HeaderStyle 'TableDefaultHeading' -RowStyle 'TableDefaultRow' -AlternateRowStyle 'TableDefaultAltRow' -BorderColor '00AEEF' -Align Left -BorderWidth 0.5 -Default
+TableStyle -Id 'TableDefault' -HeaderStyle 'TableDefaultHeading' -RowStyle 'TableDefaultRow' -AlternateRowStyle 'TableDefaultAltRow' -BorderColor '000000' -Align Left -BorderWidth 0.5 -Default
 TableStyle -Id 'Borderless' -BorderWidth 0
 
 # Cisco Cover Page
